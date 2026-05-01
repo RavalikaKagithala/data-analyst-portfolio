@@ -10,8 +10,8 @@ Data Analyst with experience at Amazon, improving data accuracy by 20% through d
 - SQL (Joins, Subqueries, Aggregations)
 - Python (Pandas, NumPy, Matplotlib)
 - Excel (Pivot Tables, VLOOKUP, Power Query)
-- Power BI (Dashboards, Data Visualization)
-- Data Cleaning & EDA
+- Power BI (Dashboards)
+- Data Cleaning & Exploratory Data Analysis (EDA)
 
 ---
 
@@ -21,23 +21,20 @@ Data Analyst with experience at Amazon, improving data accuracy by 20% through d
 **Tools:** Power BI, Excel  
 **Duration:** Mar 2026 – Apr 2026  
 
-📊 ![Dashboard Screenshot](images/sales-dashboard.png)
-
-- Built an interactive dashboard to analyze sales trends and KPIs  
-- Created metrics like revenue, profit, and growth  
-- Identified key business insights  
+- Built an interactive dashboard to analyze sales trends, revenue, and KPIs  
+- Created metrics such as revenue, profit, and growth  
+- Identified key insights to support business decisions  
 
 ---
 
-### 🔹 Customer Segmentation (SQL + Python)
+### 🔹 Customer Segmentation (SQL & Python)
 **Tools:** SQL, Python  
 **Duration:** Feb 2026 – Mar 2026  
 
-📊 ![Customer Segmentation](images/customer-segmentation.png)
-
-- Performed RFM analysis  
-- Segmented customers based on behavior  
-- Generated insights for marketing strategies  
+- Analyzed customer transaction data using SQL queries  
+- Applied RFM (Recency, Frequency, Monetary) analysis  
+- Segmented customers based on purchasing behavior  
+- Generated insights for targeted marketing strategies  
 
 ---
 
@@ -45,23 +42,23 @@ Data Analyst with experience at Amazon, improving data accuracy by 20% through d
 **Tools:** MySQL, Excel  
 **Duration:** Sep 2022 – Apr 2023  
 
-- Analyzed product and order data  
-- Wrote SQL queries for business insights  
-- Identified sales trends and customer behavior  
+- Analyzed product and order data using SQL  
+- Identified top-selling products and sales trends  
+- Extracted insights on customer purchasing patterns  
 
 ---
 
 ## 💼 Experience
 
 ### Amazon - Catalog Assistant
-- Improved data accuracy by 20%  
-- Ensured 98% data quality  
-- Performed data analysis to improve catalog performance  
+- Improved product listing accuracy by 20%  
+- Ensured 98% data quality compliance  
+- Analyzed datasets to improve catalog performance  
 
 ### Genpact - Process Associate
-- Analyzed 500+ daily records  
-- Generated reports and trend insights  
-- Maintained 99% accuracy  
+- Reviewed and analyzed 500+ daily records  
+- Generated reports and identified trends  
+- Maintained 99%+ accuracy  
 
 ---
 
@@ -69,3 +66,6 @@ Data Analyst with experience at Amazon, improving data accuracy by 20% through d
 📧 Email: ravalikakagithala724@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/ravalika-k-137a33241  
 💻 GitHub: https://github.com/RavalikaKagithala
+
+
+
