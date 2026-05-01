@@ -1,51 +1,71 @@
 # data-analyst-portfolio
-# Ravalika Kagithala - Data Analyst Portfolio
+# 👩‍💻 Ravalika Kagithala - Data Analyst Portfolio
 
-## About Me
-Data Analyst with experience in Amazon catalog operations, improving data accuracy by 20%. Skilled in SQL, Python, and Excel for data analysis and visualization.
-
----
-
-## Skills
-- SQL (Joins, Subqueries)
-- Python (Pandas, NumPy)
-- Excel (Pivot Tables, VLOOKUP)
-- Power BI (Dashboards)
+## 📌 About Me
+Data Analyst with experience at Amazon, improving data accuracy by 20% through data validation and analysis. Skilled in SQL, Python, Excel, and Power BI. Passionate about turning data into actionable insights.
 
 ---
 
-## Projects
-
-### 1. Sales Performance Analysis Dashboard
-- Built interactive dashboard using Power BI
-- Analyzed revenue, profit, and trends
-- Created KPIs and business insights
-
-### 2. Customer Segmentation (SQL + Python)
-- Performed RFM analysis
-- Identified high-value customers
-- Visualized customer behavior
-
-### 3. E-commerce Data Analysis
-- Used SQL to analyze product and order data
-- Identified top-selling products
-- Extracted business insights
+## 🛠️ Skills
+- SQL (Joins, Subqueries, Aggregations)
+- Python (Pandas, NumPy, Matplotlib)
+- Excel (Pivot Tables, VLOOKUP, Power Query)
+- Power BI (Dashboards, Data Visualization)
+- Data Cleaning & EDA
 
 ---
 
-## Experience
+## 📊 Projects
+
+### 🔹 Sales Performance Analysis Dashboard
+**Tools:** Power BI, Excel  
+**Duration:** Mar 2026 – Apr 2026  
+
+📊 ![Dashboard Screenshot](images/sales-dashboard.png)
+
+- Built an interactive dashboard to analyze sales trends and KPIs  
+- Created metrics like revenue, profit, and growth  
+- Identified key business insights  
+
+---
+
+### 🔹 Customer Segmentation (SQL + Python)
+**Tools:** SQL, Python  
+**Duration:** Feb 2026 – Mar 2026  
+
+📊 ![Customer Segmentation](images/customer-segmentation.png)
+
+- Performed RFM analysis  
+- Segmented customers based on behavior  
+- Generated insights for marketing strategies  
+
+---
+
+### 🔹 E-commerce Data Analysis
+**Tools:** MySQL, Excel  
+**Duration:** Sep 2022 – Apr 2023  
+
+- Analyzed product and order data  
+- Wrote SQL queries for business insights  
+- Identified sales trends and customer behavior  
+
+---
+
+## 💼 Experience
 
 ### Amazon - Catalog Assistant
-- Improved data accuracy by 20%
-- Ensured 98% data quality
+- Improved data accuracy by 20%  
+- Ensured 98% data quality  
+- Performed data analysis to improve catalog performance  
 
 ### Genpact - Process Associate
-- Analyzed 500+ daily records
-- Generated reports and trend insights
+- Analyzed 500+ daily records  
+- Generated reports and trend insights  
+- Maintained 99% accuracy  
 
 ---
 
-## Contact
-Email: ravalikakagithala724@gmail.com  
-LinkedIn: https://linkedin.com/in/ravalika-k-137a33241
-GitHub: https://github.com/RavalikaKagithala
+## 📬 Contact
+📧 Email: ravalikakagithala724@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/ravalika-k-137a33241  
+💻 GitHub: https://github.com/RavalikaKagithala
